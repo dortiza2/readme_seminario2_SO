@@ -84,6 +84,6 @@ Se actualizó la vista de procesos para comprobar que el proceso ya no se encont
 ---
 
 ## ✍️ Elaborado por
-**Usuario:** estudiante18  
+**Usuario:** David Alberto Ortiz Aquino 
 **Fecha:** Junio 2025  
 **Actividad:** Análisis y control de procesos en Webmin
