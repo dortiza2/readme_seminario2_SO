@@ -34,36 +34,41 @@ Acceso al panel de administración vía navegador web utilizando credenciales de
 ### 2. Acceso a la sección de procesos
 Navegación a **System > Running Processes** para visualizar los procesos activos del sistema.
 
-📸 **[Ver captura](https://drive.google.com/file/d/1BpCc830y8UbT0XvROd4sQTH7G4JytS7U/view?usp=sharing)**
+<img width="442" alt="Imagen 2" src="https://github.com/user-attachments/assets/eef08a2b-13e4-45e9-af53-290efa0cae54" />
+<img width="253" alt="Imagen 2_2" src="https://github.com/user-attachments/assets/6f0ee83a-0554-447d-af7a-e989d40854da" />
+
 
 ---
 
 ### 3. Análisis de procesos disponibles
 Se revisó la lista para identificar procesos no críticos. Se evitó interactuar con servicios como `Webmin`, `systemd`, `nginx`, `postfix`, entre otros.
 
-📸 **[Ver captura](https://drive.google.com/file/d/1Nfq2CYc-FYUgZylOSQQ9dtGKUCKJXcwx/view?usp=sharing)**
-📸 **[Ver captura](https://drive.google.com/file/d/1Jap-AIi-3pkYqxYtHxp6sesRGqhPge7i/view?usp=sharing)**
+<img width="442" alt="Imagen 3" src="https://github.com/user-attachments/assets/7c473a8a-a628-4442-8fec-dccc3c3180b6" />
+<img width="1582" alt="Imagen 3_3" src="https://github.com/user-attachments/assets/3e5fe655-e0b4-4c4b-9ad1-1cee23432807" />
 
 ---
 
 ### 4. Selección de proceso mediante ID
 Se eligió el proceso con **PID 144**, correspondiente a `cron`. Se accedió a su detalle haciendo clic sobre su ID para obtener información adicional.
 
-📸 **[Ver captura](https://drive.google.com/file/d/1FejendDEJ3C3HnB3ha33jTuUw_GpKUQm/view?usp=sharing)**
+<img width="442" alt="Imagen 4" src="https://github.com/user-attachments/assets/cc1ea1ba-dc88-44af-9708-bd9b3b1f0fc8" />
+
 
 ---
 
 ### 5. Finalización del proceso
 Desde la pantalla de información del proceso se utilizó el botón **"Kill"** para detenerlo manualmente.
 
-📸 **[Ver captura](https://drive.google.com/file/d/1GxYVLevkt3xPItgTHtAMVZM4Tlqb8dyR/view?usp=sharing)**
+<img width="442" alt="Imagen 5" src="https://github.com/user-attachments/assets/13938905-dfdf-44d8-b119-8a6251281ba3" />
+<img width="700" alt="Imagen 5_5" src="https://github.com/user-attachments/assets/5b0c49b8-0bde-42e0-9ab4-401cff215a7a" />
 
 ---
 
 ### 6. Verificación post-eliminación
 Se actualizó la vista de procesos para comprobar que el proceso ya no se encontraba activo.
 
-📸 **[Ver captura](https://drive.google.com/file/d/1hpAjH-WeOAZ9WjeVo2SCqQujGmzF1B_5/view?usp=sharing)**
+<img width="442" alt="Imagen 6" src="https://github.com/user-attachments/assets/676b4e4d-756d-48b3-887a-91d2855b75c8" />
+<img width="1017" alt="Imagen 6_6" src="https://github.com/user-attachments/assets/cb067f13-6d37-4f01-94e7-73494c0bbed2" />
 
 ---
 
