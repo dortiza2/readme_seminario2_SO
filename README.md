@@ -26,7 +26,8 @@ Se realizó el análisis del listado de procesos activos en un servidor Ubuntu 2
 ### 1. Ingreso al panel Webmin
 Acceso al panel de administración vía navegador web utilizando credenciales de estudiante.
 
-📸 **[Ver captura](https://drive.google.com/file/d/1ozoupRXGboYuFyfHp0q7C13LKreGl3X1/view?usp=sharing)**
+<img width="1174" alt="imagen" src="https://github.com/user-attachments/assets/86bd2110-3c8b-4e3c-997f-e98723956521" />
+<img width="1860" alt="imagen" src="https://github.com/user-attachments/assets/f2a6d82c-a0dd-416e-ae85-54c8253cf853" />
 
 ---
 
